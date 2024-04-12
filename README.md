@@ -1,4 +1,4 @@
-<h3 align="left">Hey There 👋! My name is Kanishka Nambiar and I'm a DevSecOps and Cloud computing Specialist, who's based in India.<br>I currently work with Chainguard to churn out High-quality, low image size and 0-CVE images using a mix of melange, apko and wolfi!</h3>
+<h3 align="left">Hey There 👋! My name is Kanishka Nambiar and I'm a DevSecOps and Cloud computing Specialist, who's based in India. I currently work with Chainguard to churn out High-quality, low image size and 0-CVE images using a mix of melange, apko and wolfi!</h3>
 
 ###
 
