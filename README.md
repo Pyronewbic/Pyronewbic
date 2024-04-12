@@ -1,4 +1,4 @@
-<h3 align="left">Hey There! I'm a DevSecOps and Cloud computing Specialist, who's based in India. I currently work with Chainguard to churn out High-quality, low image size and 0-CVE images using a mix of melange, apko and wolfi!</h3>
+<h3 align="left">Hey There! I'm a DevSecOps and Cloud computing Specialist, who's based out of India. I currently work with Chainguard to churn out High-quality, low image size and 0-CVE images using a mix of melange, apko and wolfi!</h3>
 
 ###
 
@@ -29,6 +29,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="30" alt="windows8 logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/powershell/5391FE" height="30" alt="powershell logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=bash" height="30" alt="bash logo"  />
 </div>
 
 ###
