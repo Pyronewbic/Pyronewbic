@@ -1,4 +1,4 @@
-<h3 align="left">Hey There! I'm a DevSecOps and Cloud computing Specialist, who's based out of India. I currently work with Chainguard to churn out High-quality, low image size and 0-CVE images using a mix of melange, apko and wolfi!</h3>
+<h3 align="left">Hey There! I'm a DevSecOps and Cloud computing Specialist, who's based out of India. I worked with Chainguard to churn out High-quality, low image size and 0-CVE images using a mix of melange, apko and wolfi!, while DevSecOps + CI/CD was gleaned for working for private bank digital transformation projects via Deloitte</h3>
 
 ###
 
