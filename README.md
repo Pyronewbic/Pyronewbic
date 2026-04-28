@@ -1,6 +1,6 @@
   ## About                                                                                                                                                                          
                                                                   
-  I'm a platform & security engineer based in Chennai, India, with 8 years of experience in DevSecOps, container security, and cloud infrastructure.                                
+  I'm a platform & security engineer based in Chennai, India, with 9 years of experience in DevSecOps, container security, and cloud infrastructure.                                
    
   I've built non-FIPS and FIPS-compliant zero-CVE container images at Chainguard using Melange, apko, and the Wolfi ecosystem — spanning stacks like GitLab, CUDA, and Kubernetes   
   gpu-operator. At Deloitte, I led DevSecOps across banking and healthcare programs, improving delivery efficiency by 400% through standardized pipelines and monorepos. I also
