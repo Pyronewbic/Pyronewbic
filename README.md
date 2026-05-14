@@ -1,12 +1,6 @@
 ### Hey, I'm Kan
 
-Platform & security engineer. 9 years. Building things that ship.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-kanishka--nambiar-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/kanishka-nambiar)
-[![Twitter](https://img.shields.io/badge/Twitter-@kantalkstech-1DA1F2?style=flat&logo=x&logoColor=white)](https://twitter.com/kantalkstech)
-[![Website](https://img.shields.io/badge/casecomp.xyz-d9b676?style=flat&logo=googlechrome&logoColor=white)](https://casecomp.xyz)
-
----
+Platform & security engineer. 9 years. Building things that ship, and mucking about with it a load. 
 
 #### Currently building
 
