@@ -14,7 +14,6 @@ Platform & security engineer. 9 years. Building things that ship, and mucking ab
 - Multi-region (asia-south1 + us-central1), global LB geo-routing
 - Sigstore cosign signing, Binary Authorization enforced, zero-CVE distroless
 - Custom Wolfi + apko base image, SBOM + Grype on every PR, CodeQL SAST
-- 313 tests, full CI/CD: build once → sign → deploy by digest
 
 #### Supply chain security
 
